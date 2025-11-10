@@ -1,3 +1,3 @@
 # teja-demo
 This is my first git repository.
-Author : Guna Teja
+Author : Guna teja
